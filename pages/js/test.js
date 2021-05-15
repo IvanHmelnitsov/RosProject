@@ -84,7 +84,7 @@ const questions = [
     ]
   },
   {
-    question: '1. в якому році створили Electronic Arts?',
+    question: '11. в якому році створили Electronic Arts?',
     answers: [
       { text: '1992', correct: false },
       { text: '2000', correct: false },
