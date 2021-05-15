@@ -75,7 +75,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: '1. в якому році створили minecraft?',
+    question: '12. в якому році створили minecraft?',
     answers: [
       { text: '2009', correct: true },
       { text: '2008', correct: false },
@@ -84,7 +84,7 @@ const questions = [
     ]
   },
   {
-    question: '2. в якому році створили Electronic Arts?',
+    question: '1. в якому році створили Electronic Arts?',
     answers: [
       { text: '1992', correct: false },
       { text: '2000', correct: false },
@@ -93,7 +93,7 @@ const questions = [
     ]
   },
   {
-    question: '3. в якому році створили Ubisoft?',
+    question: '10. в якому році створили Ubisoft?',
     answers: [
       { text: '1996', correct: false },
       { text: '1986', correct: true },
@@ -102,7 +102,7 @@ const questions = [
     ]
   },
   {
-    question: '4. в якому році створили Need for Speed 1?',
+    question: '9. в якому році створили Need for Speed 1?',
     answers: [
       { text: '2000', correct: false },
       { text: '1999', correct: false },
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
     {
-      question: '5. в якому році створили Hitman 3?',
+      question: '8. в якому році створили Hitman 3?',
       answers: [
         { text: '2020', correct: true },
         { text: '2015', correct: false },
@@ -121,7 +121,7 @@ const questions = [
       ]
     },
     {
-      question: '6. в якому році створили Among Us?',
+      question: '7. в якому році створили Among Us?',
       answers: [
         { text: '2020', correct: false },
         { text: '2018', correct: true },
@@ -130,7 +130,7 @@ const questions = [
       ]
     },
     {
-      question: '7. в якому році створили Assassin’s Creed?',
+      question: '6. в якому році створили Assassin’s Creed?',
       answers: [
         { text: '1998', correct: false },
         { text: '2020', correct: false },
@@ -139,7 +139,7 @@ const questions = [
       ]
     },
     {
-      question: '8. в якому році створили S.T.A.L.K.E.R.?',
+      question: '5. в якому році створили S.T.A.L.K.E.R.?',
       answers: [
         { text: '1993', correct: false },
         { text: '1699', correct: false },
@@ -148,7 +148,7 @@ const questions = [
       ]
     },
     {
-      question: '9. Коли був створений Steam',
+      question: '4. Коли був створений Steam',
       answers: [
         { text: '2001', correct: false },
         { text: '2000', correct: false },
@@ -157,7 +157,7 @@ const questions = [
       ]
     },
     {
-      question: '10. в якому році створили Just Cause 3?',
+      question: '3. в якому році створили Just Cause 3?',
       answers: [
         { text: '2014', correct: true },
         { text: '2000', correct: false },
@@ -166,7 +166,7 @@ const questions = [
       ]
     },
     {
-      question: '11. в якому році створили Just Cause 2?',
+      question: '2. в якому році створили Just Cause 2?',
       answers: [
         { text: '2007', correct: false },
         { text: '2005', correct: false },
@@ -175,7 +175,7 @@ const questions = [
       ]
     },
     {
-      question: '12. в якому році створили Just Cause 4?',
+      question: '1. в якому році створили Just Cause 4?',
       answers: [
         { text: '2015', correct: false },
         { text: '2016', correct: false },
